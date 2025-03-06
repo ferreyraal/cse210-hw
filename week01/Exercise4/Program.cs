@@ -4,7 +4,6 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("This is the Exercise 4 Project.");
         Console.WriteLine("Enter a list of numbers, type 0 when finished.");
         int number = 1;
         List<int> numbers = new List<int>();

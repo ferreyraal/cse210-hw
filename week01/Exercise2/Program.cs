@@ -4,7 +4,6 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("This is the Exercise 2 Project.");
         string letter = "";
         int grade = 0;
         Console.Write("What is your percentage grade? ");
