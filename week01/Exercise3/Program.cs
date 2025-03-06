@@ -5,6 +5,7 @@ class Program
     static void Main(string[] args)
     {
         Console.WriteLine("This is Exercise 3 Project.");
+        // Random number
         Random randomGenerator = new Random();
         int magic_number = randomGenerator.Next(1, 100);
         int guess_number = 0;
