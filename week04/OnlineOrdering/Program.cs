@@ -24,7 +24,7 @@ class Program
         Console.WriteLine("");
         Console.WriteLine("Packing Label");
         Console.WriteLine(order1.GetPackingLabel());
-        Console.WriteLine($"Total order: {order1.GettotalOrder()}");
+        Console.WriteLine($"Total order: {order1.GetTotalOrder()}");
 
         Console.WriteLine("");
         Console.WriteLine("------------------------------------------------------");
@@ -35,7 +35,7 @@ class Program
         Console.WriteLine("");
         Console.WriteLine("Packing Label");
         Console.WriteLine(order2.GetPackingLabel());
-        Console.WriteLine($"Total order: {order2.GettotalOrder()}");
+        Console.WriteLine($"Total order: {order2.GetTotalOrder()}");
 
     }
 }

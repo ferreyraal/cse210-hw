@@ -14,7 +14,7 @@ public class Order
         _products.Add(product);
     }
 
-    public double GettotalOrder()
+    public double GetTotalOrder()
     {
         double subtotal = 0;
         double shipping = 0;
