@@ -13,8 +13,10 @@ class Program
             Console.WriteLine("1. Start breathing activity");
             Console.WriteLine("2. Start reflecting activity");
             Console.WriteLine("3. Start listing activity");
-            Console.WriteLine("4. Start gratitud activity");
+            // Showing Creativity and Exceeding Requirements
             // I will add a new activity and change quit to 5 option.
+            Console.WriteLine("4. Start gratitud activity");
+
             Console.WriteLine("5. Quit");
             Console.Write("Select a choice from the menu:");
 
