@@ -29,7 +29,6 @@ public class Journal
             {
                 outputFile.WriteLine($"{entry._date}, {entry._prompt}, {entry._response}");
             }
-            
         }
 
     }
@@ -45,7 +44,6 @@ public class Journal
             newEntry._date = parts[0];
             newEntry._prompt = parts[1];
             newEntry._response = parts[2];
-
             _entries.Add(newEntry);
 
         }

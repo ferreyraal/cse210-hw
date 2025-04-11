@@ -1,0 +1,6 @@
+2500
+Simple Goal: comer, en restaurant de lujo, 100, True
+Eternal Goal: comer, mac, 100
+Checklist Goal: leer, cada semana un libro, 100, 3, 3 , 1000
+Simple Goal: estudiar, un nuevo idioma, 1000, True
+Simple Goal: eat helthy, eat ony helthy food, 90, False
